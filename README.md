@@ -1,5 +1,5 @@
 # resume
-Wisely's resume
+This is Wisely's resume. For more information, please feel free to contact with me through my e-mail: wiselyku@gmail.com .
 
 # Education Background
 
